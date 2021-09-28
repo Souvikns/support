@@ -1,23 +1,15 @@
 ---
 ---
 
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #6D28D9 !default;
+$header-bg-color-secondary: #6D28D9 !default;
+
+// Text
+$section-headings-color: #6D28D9 !default;
+$body-text-color: #000000 !default;
+$body-link-color: #6D28D9 !default;
+$blockquote-text-color: #819198 !default;
+
 @import "{{ site.theme }}";
-
-h1 {
-  color: #ffffff;
-}
-
-h2, a {
-  color: #6D28D9;
-}
-
-
-.page-header {
-    color: #FFFFFF;
-    background-color: #6D28D9;
-    background-image: none;
-}
-
-.page-header a {
-    color: #FFFFFF;
-}
