@@ -1,4 +1,6 @@
-## Do you need help?
+## 🗣 [Forum](https://github.com/GitPublisher/support/discussions/)
 
-Check our [forum](https://github.com/GitPublisher/support/discussions) or report it [here](https://github.com/GitPublisher/support/issues/new?assignees=&labels=&template=bug_report.md&title=)
+## ℹ️ [FAQ](https://github.com/GitPublisher/support/discussions/categories/faq)
+
+## 🐞 [Report a bug](https://github.com/GitPublisher/support/issues/new?assignees=&labels=&template=bug_report.md&title=)
 
