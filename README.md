@@ -1,5 +1,3 @@
-## Welcome to the Support Area
-
 
 ## Are you having an issue?
 
