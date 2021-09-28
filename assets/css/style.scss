@@ -2,3 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #6D28D9;
+}
+
+.page-header {
+    color: #FFFFFF;
+    background-color: #6D28D9;
+}
+
+.page-header a {
+    color: #FFFFFF;
+}
