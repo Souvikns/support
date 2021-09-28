@@ -7,5 +7,5 @@ Check our [forum](https://github.com/GitPublisher/support/discussions) or report
 
 ***
 
-## [Join our community](https://github.com/GitPublisher/support/discussions)
+### [Join our community](https://github.com/GitPublisher/support/discussions)
 
