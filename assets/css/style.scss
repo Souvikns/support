@@ -3,17 +3,19 @@
 
 @import "{{ site.theme }}";
 
-a {
-  color: #000000;
+h1 {
+  color: #ffffff;
 }
 
-h1,h2,h3,a:hover {
+h2, a {
   color: #6D28D9;
 }
+
 
 .page-header {
     color: #FFFFFF;
     background-color: #6D28D9;
+    background-image: none;
 }
 
 .page-header a {
