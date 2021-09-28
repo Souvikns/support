@@ -1,4 +1,4 @@
-## Welcome to the support area
+## Welcome to the Support Area
 
 
 ## Are you having an issue?
