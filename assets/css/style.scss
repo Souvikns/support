@@ -13,3 +13,8 @@ $body-link-color: #6D28D9 !default;
 $blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
+
+
+.btn {
+  display:none;
+}
