@@ -6,7 +6,7 @@
 
 ***
 
-## You can contribute to this repo by: 
+## You can contribute by: 
 
 1. Adding examples to our [`examples/`](https://github.com/GitPublisher/support/tree/main/examples) folder
 
