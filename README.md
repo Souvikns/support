@@ -10,5 +10,7 @@
 
 1. Adding examples to our [`examples/`](https://github.com/GitPublisher/support/tree/main/examples) folder;
 
-2. Improving and adding our documentation on [`docs/`](https://github.com/GitPublisher/support/tree/main/docs) folder.
+2. Suggesting new features;
+
+3. Reporting bugs.
 
