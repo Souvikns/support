@@ -2,7 +2,7 @@
 
 ## ℹ️ [FAQ](https://github.com/GitPublisher/support/discussions/categories/faq)
 
-## 🐞 [Report a bug](https://github.com/GitPublisher/support/issues/new?assignees=&labels=&template=bug_report.md&title=)
+## 🐞 [Report a bug](https://github.com/GitPublisher/support/issues/new?assignees=ricardodantas&labels=bug&template=bug_report.md&title=%F0%9F%90%9EBug%3A+)
 
 ***
 
